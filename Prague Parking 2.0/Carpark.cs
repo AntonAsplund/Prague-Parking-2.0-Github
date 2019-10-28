@@ -96,7 +96,7 @@ namespace Prague_Parking_2._0
                 Vehicle TestArray7 = new Vehicle(MC, "FCJ355", parkingTimeTestArray);
                 Vehicle TestArray8 = new Vehicle(Car, "LZC418", parkingTimeTestArray);
                 Vehicle TestArray9 = new Vehicle(Car, "DÜ59868", parkingTimeTestArrayOld3);
-                Vehicle TestArray10 = new Vehicle(Car, "68PÄUI", parkingTimeTestArray);
+                Vehicle TestArray10 = new Vehicle(Car, "8554456", parkingTimeTestArray);
 
                 vehicleArray[13, 1] = TestArray1;
                 vehicleArray[62, 0] = TestArray2;
